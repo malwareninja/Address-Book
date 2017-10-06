@@ -1,0 +1,21 @@
+.font{
+	font-family: 'Baloo Bhaina', cursive;
+}
+.title{
+	font-size: 50px;
+	margin-top: 120px;
+	font-family: 'Baloo Bhaina', cursive;
+	padding: 10px;	
+}
+.panel{
+	box-shadow: 10px 10px 10px 10px #888888;
+}
+.btn{
+	width: 100%
+}
+textarea{
+	resize: none;
+}
+select{
+	cursor: pointer;
+}
